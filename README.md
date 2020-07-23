@@ -1,4 +1,4 @@
-[![img](/night-skyline-with-bright-lights-in-shanghai-china.jpg)](https://github.com/godcong)
+[![img](https://raw.githubusercontent.com/godcong/godcong/master/night-skyline-with-bright-lights-in-shanghai-china.jpg)](https://github.com/godcong)
 
 ### 👇Hi, Here is my self introduction👇 ###
 
