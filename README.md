@@ -1,4 +1,4 @@
-[![img](/night-skyline-with-bright-lights-in-shanghai-china.jpg = 800x600)](https://github.com/godcong)
+[![img](/night-skyline-with-bright-lights-in-shanghai-china.jpg = 800*600)](https://github.com/godcong)
 
 ### 👇Hi, Here is my self introduction👇 ###
 
