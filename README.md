@@ -1,6 +1,6 @@
-[![img](/night-skyline-with-bright-lights-in-shanghai-china.jpg)](https://github.com/godcong)
+[![img](/night-skyline-with-bright-lights-in-shanghai-china.jpg = 800x600)](https://github.com/godcong)
 
-### 👇Hi Here is my self introduction👇 ###
+### 👇Hi, Here is my self introduction👇 ###
 
 <!--
 **godcong/godcong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
