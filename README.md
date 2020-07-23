@@ -1,4 +1,4 @@
-[![img](https://github.com/godcong/godcong/tree/master/night-skyline-with-bright-lights-in-shanghai-china.jpg)](https://github.com/godcong)
+[![img](/night-skyline-with-bright-lights-in-shanghai-china.jpg)](https://github.com/godcong)
 
 ### Hi there 👋
 
