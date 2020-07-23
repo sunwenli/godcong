@@ -1,4 +1,4 @@
-![img](night-skyline-with-bright-lights-in-shanghai-china.jpg = 921x64 )
+![img](https://github.com/godcong/godcong/tree/master/night-skyline-with-bright-lights-in-shanghai-china.jpg = 984x656 )
 ### Hi there 👋
 
 <!--
