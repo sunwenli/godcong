@@ -1,16 +1,10 @@
 [![img](https://raw.githubusercontent.com/godcong/godcong/master/night-skyline-with-bright-lights-in-shanghai-china.jpg)](https://github.com/godcong)
 
 ### 👇Hi, Here is my self introduction👇 ###
-
-<!--
-**godcong/godcong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-Most Used Langs:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=godcong&layout=compact)](https://github.com/godcong)
-
-
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=godcong&show_icons=true&theme=radical)
 
+Resume:  
 - 🔭 I’m currently working on `golang` `fate` `ipfs`
 - 🌱 I’m currently learning `how to learning`
 - 💬 Ask me about `you guess`
