@@ -5,6 +5,8 @@
 <!--
 **godcong/godcong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=godcong&layout=compact)](https://github.com/godcong)
+
 
 - 🔭 I’m currently working on `golang` `fate` `ipfs`
 - 🌱 I’m currently learning `how to learning`
