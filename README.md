@@ -2,7 +2,7 @@
 
 ### 👇Hi, Here is my self introduction👇 ###
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=godcong&layout=compact)](https://github.com/godcong)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=godcong&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=godcong&show_icons=true)
 
 Resume:  
 - 🔭 I’m currently working on `golang` `fate` `ipfs`
