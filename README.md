@@ -5,7 +5,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=godcong)](https://github.com/godcong)
 
 Projects:  
-[![Fate](https://github-readme-stats.vercel.app/api/pin/?username=godcong&repo=fate&show_owner=true)](https://github.com/godcong/fate)
+[![Fate](https://github-readme-stats.vercel.app/api/pin/?username=godcong&repo=fate&show_owner=true)](https://github.com/babyname/fate)
 
 👇Resume👇  
 - 🔭 I’m currently working on `golang` `fate` `ipfs`
