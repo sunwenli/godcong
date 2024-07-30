@@ -72,7 +72,6 @@
 <div>
   <!-- Cloud & Automation -->
   <img src="https://img.shields.io/badge/-Terraform-7B4397?style=flat&logo=terraform&logoColor=white">
-  <img src="https://img.shields.io/badge/-GitLab-FCA02F?style=flat&logo=gitlab&logoColor=white">
   <img src="https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white">
 </div>
 
@@ -118,7 +117,6 @@
 <div>
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=godcong&hide_border=true&theme=github&bg_color=ffffff&line=3498db&color=000000"/>
 </div>
-
 </td>
 </tr>
 </table>
