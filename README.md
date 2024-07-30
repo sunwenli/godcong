@@ -1,10 +1,15 @@
 [![img](https://raw.githubusercontent.com/godcong/godcong/master/images/header.jpg)](https://github.com/godcong)
 
+## 🏆 GITHUB TROPHIES
+
+<div>
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=godcong&theme=white&row=1" alt="GodCong's GitHub trophies" />
+  <! -- You can add more pictures or cards to the same line -->
+</div>
+
 <table>
 <tr>
 <td valign="top" width="60%">
-
-
 
 <!-- On the Left -->
 <h1 >👋 Hi, I'm GodCong</h1>
@@ -75,7 +80,7 @@
 ## 💬 LANGUAGE SKILLS
 
 <div>
-    
+
 </div>
 
 ## 💻 WORK EXPERIENCE
@@ -109,41 +114,19 @@
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=godcong&show_icons=true&theme=white">
 </div>
 
-### 🚀 FEATURED PROJECTS
-
+### 📈 ACTIVITY GRAPH
 <div>
-<a href="https://github.com/babyname/fate">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=babyname&repo=fate&show_owner=true">
-</a>
-</div>
-<div>
-<a href="https://github.com/godcong/dl">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=godcong&repo=dl&show_owner=true">
-</a>
-</div>
-<div>
-<a href="https://github.com/origadmin/admin">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=origadmin&repo=toolkits&show_owner=true">
-</a>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=godcong&hide_border=true&theme=github&bg_color=ffffff&line=3498db&color=000000"/>
 </div>
 
 </td>
 </tr>
 </table>
 
-## 🏆 GITHUB TROPHIES
-
-<div>
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=godcong&theme=white&row=1" alt="GodCong's GitHub trophies" />
-  <! -- You can add more pictures or cards to the same line -->
-</div>
-
-<!-- Hidden 
+<!-- Hidden
 
 ## 🎨 UNLIT SKILLS
-
 <img src="https://skillicons.dev/icons?i=ableton,activitypub,actix,adonis,ae,aiscript,alpinejs,anaconda,androidstudio,angular,ansible,apollo,apple,appwrite,arch,arduino,astro,atom,au,autocad,aws,azul,azure,babel,bash,bevy,bitbucket,blender,bootstrap,bsd,bun,c,cs,cpp,crystal,cassandra,clion,clojure,cloudflare,cmake,codepen,coffeescript,css,cypress,d3,dart,debian,deno,devto,discord,bots,discordjs,django,docker,dotnet,dynamodb,eclipse,elasticsearch,electron,elixir,elysia,emacs,ember,emotion,express,fastapi,fediverse,figma,firebase,flask,flutter,forth,fortran,gamemakerstudio,gatsby,gcp,git,github,githubactions,gitlab,gmail,gherkin,go,gradle,godot,grafana,graphql,gtk,gulp,haskell,haxe,haxeflixel,heroku,hibernate,html,htmx,idea,ai,instagram,ipfs,java,js,jenkins,jest,jquery,kafka,kali,kotlin,ktor,kubernetes,laravel,latex,less,linkedin,linux,lit,lua,md,mastodon,materialui,matlab,maven,mint,misskey,mongodb,mysql,neovim,nestjs,netlify,nextjs,nginx,nim,nix,nodejs,notion,npm,nuxtjs,obsidian,ocaml,octave,opencv,openshift,openstack,p5js,perl,ps,php,phpstorm,pinia,pkl,plan9,planetscale,pnpm,postgres,postman,powershell,pr,prisma,processing,prometheus,pug,pycharm,py,pytorch,qt,r,rabbitmq,rails,raspberrypi,react,reactivex,redhat,redis,redux,regex,remix,replit,rider,robloxstudio,rocket,rollupjs,ros,ruby,rust,sass,spring,sqlite,stackoverflow,styledcomponents,sublime,supabase,scala,sklearn,selenium,sentry,sequelize,sketchup,solidity,solidjs,svelte,svg,swift,symfony,tailwind,tauri,tensorflow,terraform,threejs,twitter,ts,ubuntu,unity,unreal,v,vala,vercel,vim,visualstudio,vite,vitest,vscode,vscodium,vue,vuetify,wasm,webflow,webpack,webstorm,windicss,windows,wordpress,workers,xd,yarn,yew,zig&perline=20">
-
 -->
 
 <p >Thank you for visiting my profile! If you have any questions or would like to connect, feel free to reach out.</p>
