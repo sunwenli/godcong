@@ -77,6 +77,8 @@ alt="GodCong's GitHub trophies"/>
 <!-- Tools -->
 <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/-Gitea-609926?style=flat&logo=gitea&logoColor=white">
+<img src="https://img.shields.io/badge/-GitExtensions-212121?style=flat&logo=gitextensions&logoColor=white">
 <img src="https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=white">
 <img src="https://img.shields.io/badge/-IntellijIDEA-000000?style=flat&logo=IntellijIdea&logoColor=white">
 <img src="https://img.shields.io/badge/-GolLand-000000?style=flat&logo=goland&logoColor=white">
