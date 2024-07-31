@@ -16,25 +16,28 @@ alt="GodCong's GitHub trophies"/>
 <!-- Social Links -->
 <div>
 <a href="mailto:jumbycc@163.com">
-<img src="https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white">
 </a>
 <!-- <a href="https://github.com/godcong"><img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github&logoColor=white"></a> -->
 <!-- Add other social media links here -->
 <a href="#">
-<img src="https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=x&logoColor=white">
+<img src="https://img.shields.io/badge/-Twitter-000000?style=flat&logo=x&logoColor=white">
 </a>
 <a href="#">
-<img src="https://img.shields.io/badge/-WeChat-05122A?style=flat&logo=wechat&logoColor=white">
+<img src="https://img.shields.io/badge/-WeChat-07C160?style=flat&logo=wechat&logoColor=white">
 </a>
 <!-- <a href="#"><img src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram&logoColor=white"></a>-->
 <a href="#">
-<img src="https://img.shields.io/badge/-Facebook-05122A?style=flat&logo=facebook&logoColor=white">
+<img src="https://img.shields.io/badge/-Facebook-0866FF?style=flat&logo=facebook&logoColor=white">
 </a>
 <a href="#">
-<img src="https://img.shields.io/badge/-Telegram-05122A?style=flat&logo=telegram&logoColor=white">
+<img src="https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white">
 </a>
 <a href="#">
-<img src="https://img.shields.io/badge/-WhatsApp-05122A?style=flat&logo=whatsapp&logoColor=white">
+<img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white">
+</a>
+<a href="#">
+<img src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white">
 </a>
 </div>
 <h3>A passionate Gopher from Bluestar</h3>
@@ -52,9 +55,12 @@ alt="GodCong's GitHub trophies"/>
 <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/-CPlusPlus-00599C?style=flat&logo=cplusplus&logoColor=white">
 <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white">
-<img src="https://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/-Java-000000?style=flat&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=black">
 <img src="https://img.shields.io/badge/-AntDesign-0170FE?style=flat&logo=antdesign&logoColor=black">
 <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white">
 </div>
@@ -75,15 +81,34 @@ alt="GodCong's GitHub trophies"/>
 
 <div>
 <!-- Tools -->
-<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/-Gitea-609926?style=flat&logo=gitea&logoColor=white">
-<img src="https://img.shields.io/badge/-GitExtensions-212121?style=flat&logo=gitextensions&logoColor=white">
 <img src="https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=white">
+<img src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white">
+<img src="https://img.shields.io/badge/-GitExtensions-212121?style=flat&logo=gitextensions&logoColor=white">
 <img src="https://img.shields.io/badge/-IntellijIDEA-000000?style=flat&logo=IntellijIdea&logoColor=white">
 <img src="https://img.shields.io/badge/-GolLand-000000?style=flat&logo=goland&logoColor=white">
 <img src="https://img.shields.io/badge/-Bruno-F4AA41?style=flat&logo=bruno&logoColor=black">
+<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/-GitForWindows-80B3FF?style=flat&logo=gitforwindows&logoColor=white">
+<img src="https://img.shields.io/badge/-Gitea-609926?style=flat&logo=gitea&logoColor=white">
+</div>
 
+<h3> **APPLICATION & UTILITY   ** </h3>
+
+<div>
+<!-- Utilities -->
+<img src="https://img.shields.io/badge/-Consul-F24C53?style=flat&logo=consul&logoColor=white">
+<img src="https://img.shields.io/badge/-NATS-27AAE1?style=flat&logo=natsdotio&logoColor=white">
+<img src="https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apachekafka&logoColor=white">
+<img src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white">
+<img src="https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white">
+<img src="https://img.shields.io/badge/-Dependabot-025E8C?style=flat&logo=dependabot&logoColor=white">
+<img src="https://img.shields.io/badge/-OpenTelemetry-000000?style=flat&logo=opentelemetry&logoColor=white">
+<img src="https://img.shields.io/badge/-QNAP-0C2E82?style=flat&logo=qnap&logoColor=white">
+<img src="https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white">
+<img src="https://img.shields.io/badge/-PNPM-F69220?style=flat&logo=pnpm&logoColor=white">
+<img src="https://img.shields.io/badge/-NVM-F4DD4B?style=flat&logo=nvm&logoColor=white">
+<img src="https://img.shields.io/badge/-1Panel-0854C1?style=flat&logo=1panel&logoColor=white">
 </div>
 
 <h3> **CLOUD PLATFORMS & AUTOMATION** </h3>
