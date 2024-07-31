@@ -55,7 +55,7 @@ alt="GodCong's GitHub trophies"/>
 <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white">
 <img src="https://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black">
-<img src="https://img.shields.io/badge/-AntDesign-#0170FE?style=flat&logo=antdesign&logoColor=black">
+<img src="https://img.shields.io/badge/-AntDesign-0170FE?style=flat&logo=antdesign&logoColor=black">
 <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white">
 </div>
 
