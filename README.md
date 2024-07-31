@@ -55,6 +55,7 @@ alt="GodCong's GitHub trophies"/>
 <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white">
 <img src="https://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/-AntDesign-#0170FE?style=flat&logo=antdesign&logoColor=black">
 <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white">
 </div>
 
@@ -77,6 +78,9 @@ alt="GodCong's GitHub trophies"/>
 <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=white">
+<img src="https://img.shields.io/badge/-IntellijIDEA-000000?style=flat&logo=IntellijIdea&logoColor=white">
+<img src="https://img.shields.io/badge/-GolLand-000000?style=flat&logo=goland&logoColor=white">
+<img src="https://img.shields.io/badge/-Bruno-F4AA41?style=flat&logo=bruno&logoColor=black">
 
 </div>
 
@@ -85,6 +89,7 @@ alt="GodCong's GitHub trophies"/>
 <div>
 <!-- Cloud & Automation -->
 <img src="https://img.shields.io/badge/-Terraform-7B4397?style=flat&logo=terraform&logoColor=white">
+<img src="https://img.shields.io/badge/-Drone-212121?style=flat&logo=drone&logoColor=white">
 <img src="https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white">
 <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white">
 </div>
