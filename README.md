@@ -3,128 +3,140 @@
 <h2> 🏆 GITHUB TROPHIES </h2>
 
 <div>
-	<img width="100%" src="https://github-profile-trophy.vercel.app/?username=godcong&theme=white&row=1"
-	     alt="GodCong's GitHub trophies"/>
-	<! -- You can add more pictures or cards to the same line -->
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=godcong&theme=white&row=1"
+alt="GodCong's GitHub trophies"/>
+<! -- You can add more pictures or cards to the same line -->
 </div>
 
 <table>
-	<tr>
-		<td valign="top" width="60%">
+<tr>
+<td valign="top" width="60%">
+<!-- On the Left -->
+<h1>👋 Hi, I'm GodCong</h1>
+<!-- Social Links -->
+<div>
+<a href="mailto:jumbycc@163.com">
+<img src="https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail&logoColor=white">
+</a>
+<!-- <a href="https://github.com/godcong"><img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github&logoColor=white"></a> -->
+<!-- Add other social media links here -->
+<a href="#">
+<img src="https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=x&logoColor=white">
+</a>
+<a href="#">
+<img src="https://img.shields.io/badge/-WeChat-05122A?style=flat&logo=wechat&logoColor=white">
+</a>
+<!-- <a href="#"><img src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram&logoColor=white"></a>-->
+<a href="#">
+<img src="https://img.shields.io/badge/-Facebook-05122A?style=flat&logo=facebook&logoColor=white">
+</a>
+<a href="#">
+<img src="https://img.shields.io/badge/-Telegram-05122A?style=flat&logo=telegram&logoColor=white">
+</a>
+<a href="#">
+<img src="https://img.shields.io/badge/-WhatsApp-05122A?style=flat&logo=whatsapp&logoColor=white">
+</a>
+</div>
+<h3>A passionate Gopher from Bluestar</h3>
 
-			<!-- On the Left -->
-			<h1>👋 Hi, I'm GodCong</h1>
-			<!-- Social Links -->
-			<div>
-				<a href="mailto:jumbycc@163.com"><img
-									src="https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail&logoColor=white"></a>
-				<!-- <a href="https://github.com/godcong"><img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github&logoColor=white"></a> -->
-				<!-- Add other social media links here -->
-				<a href="#"><img src="https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=x&logoColor=white"></a>
-				<a href="#"><img src="https://img.shields.io/badge/-WeChat-05122A?style=flat&logo=wechat&logoColor=white"></a>
-				<!-- <a href="#"><img src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram&logoColor=white"></a>-->
-				<a href="#"><img
-									src="https://img.shields.io/badge/-Facebook-05122A?style=flat&logo=facebook&logoColor=white"></a>
-				<a href="#"><img
-									src="https://img.shields.io/badge/-Telegram-05122A?style=flat&logo=telegram&logoColor=white"></a>
-				<a href="#"><img
-									src="https://img.shields.io/badge/-WhatsApp-05122A?style=flat&logo=whatsapp&logoColor=white"></a>
-			</div>
-			<h3>A passionate Gopher from Bluestar</h3>
+<p>
+<em>"Coding is an art, and every line is a brushstroke."</em>
+</p>
 
-			<p>
-				<em>"Coding is an art, and every line is a brushstroke."</em>
-			</p>
+<h2> 🌟 LIT SKILL </h2>
 
-			<h2> 🌟 LIT SKILL </h2>
+<h3> **PROGRAMMING LANGUAGE** </h3>
 
-			<h3> **PROGRAMMING LANGUAGE** </h3>
+<div>
+<!-- Languages -->
+<img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white">
+<img src="https://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white">
+</div>
 
-			<div>
-				<!-- Languages -->
-				<img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white">
-				<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
-				<img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white">
-				<img src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white">
-				<img src="https://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white">
-				<img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black">
-				<img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white">
-			</div>
+<h3> **DATABASE** </h3>
 
-			<h3> **DATABASE** </h3>
+<div>
+<!-- Databases -->
+<img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white">
+<img src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white">
+<img src="https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=mariadb&logoColor=white">
+</div>
 
-			<div>
-				<!-- Databases -->
-				<img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
-				<img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white">
-				<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
-				<img src="https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white">
-				<img src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white">
-				<img src="https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=mariadb&logoColor=white">
-			</div>
+<h3> **DEVELOPMENT TOOLS** </h3>
 
-			<h3> **DEVELOPMENT TOOLS** </h3>
+<div>
+<!-- Tools -->
+<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=white">
 
-			<div>
-				<!-- Tools -->
-				<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white">
-				<img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white">
-				<img src="https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=white">
-				<img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white">
-			</div>
+</div>
 
-			<h3> **CLOUD PLATFORMS & AUTOMATION** </h3>
+<h3> **CLOUD PLATFORMS & AUTOMATION** </h3>
 
-			<div>
-				<!-- Cloud & Automation -->
-				<img src="https://img.shields.io/badge/-Terraform-7B4397?style=flat&logo=terraform&logoColor=white">
-				<img src="https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white">
-			</div>
+<div>
+<!-- Cloud & Automation -->
+<img src="https://img.shields.io/badge/-Terraform-7B4397?style=flat&logo=terraform&logoColor=white">
+<img src="https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white">
+<img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white">
+</div>
 
-			<!--
-			## 💬 LANGUAGE SKILLS
+<!--
+## 💬 LANGUAGE SKILLS
 
-			<div>
+<div>
 
-			</div>
+</div>
 
-			## 💻 WORK EXPERIENCE
-			<div>
+## 💻 WORK EXPERIENCE
+<div>
 
-			</div>
-			-->
+</div>
+-->
 
 
-		</td>
-		<td valign="top">
-			<!-- On the Right -->
+</td>
+<td valign="top">
+<!-- On the Right -->
 
-			<h2> 📊 GITHUB STATS </h2>
+<h2> 📊 GITHUB STATS </h2>
 
-			<div align="right">
-				<a href="#"><img height="20" src="https://img.shields.io/badge/-Go-05122A?style=flat&logo=go"></a>
-				<a href="#"><img height="20" src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github"></a>
-				<!-- <code><img height="20" src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker"></code> -->
-			</div>
+<div align="right">
+<a href="#">
+<img height="20" src="https://img.shields.io/badge/-Go-05122A?style=flat&logo=go">
+</a>
+<a href="#">
+<img height="20" src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github">
+</a>
+<!-- <code><img height="20" src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker"></code> -->
+</div>
 
-			<div>
-				<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=godcong&theme=white">
-			</div>
-			<div>
+<div>
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=godcong&theme=white">
+</div>
+<div>
 
-				<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=godcong&layout=compact">
-			</div>
-			<div>
-				<img width="100%" src="https://github-readme-stats.vercel.app/api?username=godcong&show_icons=true&theme=white">
-			</div>
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=godcong&layout=compact">
+</div>
+<div>
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=godcong&show_icons=true&theme=white">
+</div>
 
-			<h2> 📈 ACTIVITY GRAPH </h2>
-			<div>
-				<img width="100%"
-				     src="https://github-readme-activity-graph.vercel.app/graph?username=godcong&custom_title=GodCong%20Activity%20Graph&hide_border=true&theme=github&bg_color=ffffff&line=3498db&color=000000"/>
-			</div>
-		</td>
-	</tr>
+<h2> 📈 ACTIVITY GRAPH </h2>
+<div>
+<img width="100%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=godcong&custom_title=GodCong%20Activity%20Graph&hide_border=true&theme=github&bg_color=ffffff&line=3498db&color=000000"/>
+</div>
+</td>
+</tr>
 </table>
 
 <!-- Hidden
