@@ -19,6 +19,7 @@
 <!-- <a href="https://github.com/godcong"><img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github&logoColor=white"></a> -->
 <!-- Add other social media links here -->
 <a href="#"><img src="https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=x&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/-WeChat-05122A?style=flat&logo=wechat&logoColor=white"></a>
 <!-- <a href="#"><img src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram&logoColor=white"></a>-->
 <a href="#"><img src="https://img.shields.io/badge/-Facebook-05122A?style=flat&logo=facebook&logoColor=white"></a>
 <a href="#"><img src="https://img.shields.io/badge/-Telegram-05122A?style=flat&logo=telegram&logoColor=white"></a>
@@ -30,9 +31,9 @@
   <em>"Coding is an art, and every line is a brushstroke."</em>
 </p>
 
-### 🌟 LIT SKILL
+<h2> 🌟 LIT SKILL </h2>
 
-#### **PROGRAMMING LANGUAGE**
+<h3> **PROGRAMMING LANGUAGE** </h3>
 
 <div>
   <!-- Languages -->
@@ -45,7 +46,7 @@
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white">
 </div>
 
-#### **DATABASE**
+<h3> **DATABASE** </h3>
 
 <div>
   <!-- Databases -->
@@ -57,7 +58,7 @@
   <img src="https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=mariadb&logoColor=white">
 </div>
 
-#### **DEVELOPMENT TOOLS**
+<h3> **DEVELOPMENT TOOLS** </h3>
 
 <div>
   <!-- Tools -->
@@ -67,7 +68,7 @@
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white">
 </div>
 
-#### **CLOUD PLATFORMS & AUTOMATION**
+<h3> **CLOUD PLATFORMS & AUTOMATION** </h3>
 
 <div>
   <!-- Cloud & Automation -->
@@ -94,7 +95,7 @@
 <td  valign="top" >
 <!-- On the Right -->
 
-### 📊 GITHUB STATS
+<h2> 📊 GITHUB STATS </h2>
 
 <div align="right">
 <a href="#"><img height="20" src="https://img.shields.io/badge/-Go-05122A?style=flat&logo=go"></a>
@@ -113,9 +114,9 @@
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=godcong&show_icons=true&theme=white">
 </div>
 
-### 📈 ACTIVITY GRAPH
+<h2> 📈 ACTIVITY GRAPH </h2>
 <div>
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=godcong&hide_border=true&theme=github&bg_color=ffffff&line=3498db&color=000000"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=godcong&custom_title=GodCong%20Activity%20Graph&hide_border=true&theme=github&bg_color=ffffff&line=3498db&color=000000"/>
 </div>
 </td>
 </tr>
