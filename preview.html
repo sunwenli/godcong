@@ -1,0 +1,358 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>GodCong — GitHub Profile Preview</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #f6f8fa; color: #1f2328; line-height: 1.6; }
+  .container { max-width: 960px; margin: 32px auto; background: #fff; border: 1px solid #d0d7de; border-radius: 12px; overflow: hidden; padding: 0 0 32px; }
+  .banner img { width: 100%; display: block; }
+  .section { padding: 0 32px; }
+  hr { border: none; border-top: 1px solid #d0d7de; margin: 24px 32px; }
+  h2 { font-size: 1.25rem; margin: 20px 0 12px; display: flex; align-items: center; gap: 8px; }
+  h3 { font-size: 1rem; color: #57606a; margin: 16px 0 8px; font-weight: 600; }
+  .intro p { color: #57606a; margin-bottom: 6px; font-size: 0.9rem; }
+  blockquote { border-left: 3px solid #00ADD8; padding-left: 12px; color: #57606a; font-style: italic; margin: 12px 0; font-size: 0.9rem; }
+  .footer { text-align: center; padding: 24px 0 0; color: #57606a; font-size: 0.875rem; }
+  a { color: #0969da; text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  .layout-about { display: grid; grid-template-columns: 62% 38%; gap: 0; }
+  .layout-stack { display: grid; grid-template-columns: 50% 50%; gap: 0; }
+  .left { padding: 0 24px 0 32px; border-right: 1px solid #d0d7de; }
+  .right { padding: 0 32px 0 24px; }
+  .stack-left { padding: 0 16px 0 32px; border-right: 1px solid #d0d7de; }
+  .stack-right { padding: 0 32px 0 16px; }
+  .stats-img { width: 100%; margin-bottom: 8px; border-radius: 6px; }
+  .social { display: flex; flex-wrap: wrap; gap: 6px; margin: 10px 0 16px; }
+  .social img { height: 22px; }
+  .badge-group { margin-bottom: 14px; }
+  .badge-group h4 { font-size: 0.8rem; color: #656d76; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 6px; }
+  .badges { display: flex; flex-wrap: wrap; gap: 5px; }
+  .badges img { height: 22px; }
+  .trophy img { width: 100%; }
+  .project-table { width: 100%; font-size: 0.85rem; border-collapse: collapse; margin-top: 8px; }
+  .project-table td, .project-table th { padding: 3px 5px; text-align: left; }
+  .project-table tr { border-bottom: 1px solid #f0f0f0; }
+  .project-table td:first-child { font-weight: 600; }
+  .project-table td:nth-child(2) { text-align: center; white-space: nowrap; width: 55px; }
+  .stats-row { display: flex; gap: 12px; }
+  .stats-row img { width: 50%; }
+  .bq { border-left: 3px solid #00ADD8; padding-left: 12px; color: #57606a; font-style: italic; margin: 8px 0; font-size: 0.9rem; }
+  .promo-grid { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 12px; padding: 0 32px; }
+  .promo-card { text-align: center; padding: 16px 10px; border: 1px solid #d0d7de; border-radius: 8px; }
+  .promo-card b { display: block; margin: 8px 0 4px; font-size: 1rem; }
+  .promo-card sub { color: #656d76; font-size: 0.8rem; }
+  .promo-mini { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 8px; padding: 0 32px; margin-top: 8px; }
+  .promo-mini-item { text-align: center; padding: 10px; border: 1px solid #f0f0f0; border-radius: 6px; font-size: 0.85rem; }
+  .promo-mini-item sub { color: #656d76; font-size: 0.75rem; }
+  .promo-actions { text-align: center; padding: 16px 32px 0; }
+  .promo-actions img { height: 28px; margin: 0 4px; }
+</style>
+</head>
+<body>
+<div class="container">
+
+  <!-- Banner -->
+  <div class="banner">
+    <img src="images/header.jpg" alt="GodCong Banner"/>
+  </div>
+
+  <!-- Trophies -->
+  <div class="section" style="padding-top:24px;">
+    <h2>🏆 GitHub Trophies</h2>
+    <div class="trophy">
+      <img src="https://trophy.benkou.dev/?username=godcong&theme=flat&row=1&no-frame=true&margin-w=8" alt="Trophies"/>
+    </div>
+  </div>
+
+  <hr/>
+
+  <!-- About Me -->
+  <h2 style="padding:0 32px;">👋 Hello, I'm GodCong</h2>
+  <div class="layout-about">
+    <div class="left">
+      <h3>🚀 Founder of <a href="https://github.com/origadmin">OrigAdmin</a> · Go Framework Architect</h3>
+      <div class="bq">"Building frameworks so others can build faster."</div>
+      <p style="margin:10px 0; color:#57606a; font-size:0.9rem;">
+        I'm the creator and maintainer of <strong><a href="https://github.com/origadmin">OrigAdmin</a></strong> — an open-source Go admin framework ecosystem. My days are spent architecting modular backend services, designing admin UI systems, and crafting developer tools.
+      </p>
+      <div style="font-size:0.9rem; color:#57606a; margin:12px 0;">
+        <p><strong>🔭 Currently focused on</strong></p>
+        <p>🏗️ <a href="https://github.com/origadmin">OrigAdmin</a> — Go 全栈管理框架生态</p>
+        <p style="padding-left:16px; font-size:0.85rem;">
+          · <a href="https://github.com/origadmin/runtime">runtime</a> — ⭐ 基于 go-kratos 的运行时核心<br/>
+          · <a href="https://github.com/origadmin/admin">admin</a> — 🏢 后端框架 (基于 runtime)<br/>
+          · <a href="https://github.com/origadmin/contrib">contrib</a> — 🔌 扩展贡献库 (基于 runtime)<br/>
+          · <a href="https://github.com/origadmin/toolkits">toolkits</a> — 🧰 基础工具链<br/>
+          · <a href="https://github.com/origadmin/webui">webui</a> / <a href="https://github.com/origadmin/shadcn-admin-design">shadcn-admin-design</a> — 🎨 管理前端<br/>
+          · <a href="https://github.com/origadmin/adptool">adptool</a> / <a href="https://github.com/origadmin/abgen">abgen</a> — ⚡ 代码生成工具
+        </p>
+        <p style="margin-top:6px;"><strong>🌱 Also building</strong> fate (2.4k⭐), chronos, AI tooling</p>
+        <p><strong>💡 Open source believer</strong> — if it solves a real problem, it deserves to be shared.</p>
+      </div>
+
+      <div class="social">
+        <img src="https://img.shields.io/badge/Email-jumbycc%40163.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GitHub-godcong-181717?style=flat-square&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OrigAdmin-FF6B35?style=flat-square&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Twitter-%40godcong-000000?style=flat-square&logo=x&logoColor=white"/>
+        <img src="https://img.shields.io/badge/WeChat-godcong-07C160?style=flat-square&logo=wechat&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Telegram-godcong-26A5E4?style=flat-square&logo=telegram&logoColor=white"/>
+      </div>
+    </div>
+    <div class="right">
+      <h3>⚡ Quick Stats</h3>
+      <img class="stats-img" src="https://github-readme-stats.vercel.app/api?username=godcong&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&hide_title=true" alt="Stats"/>
+
+      <h3>🏅 Highlight Projects</h3>
+      <table class="project-table">
+        <tr><td><a href="https://github.com/origadmin/runtime">origadmin/runtime</a></td><td>⚙️</td><td>运行时核心框架</td></tr>
+        <tr><td><a href="https://github.com/origadmin/admin">origadmin/admin</a></td><td>🏢</td><td>后端框架</td></tr>
+        <tr><td><a href="https://github.com/origadmin/contrib">origadmin/contrib</a></td><td>🔌</td><td>扩展贡献库</td></tr>
+        <tr><td><a href="https://github.com/origadmin/toolkits">origadmin/toolkits</a></td><td>🧰</td><td>基础工具链</td></tr>
+        <tr><td><a href="https://github.com/babyname/fate">fate</a></td><td>⭐2.4k</td><td>起名工具</td></tr>
+        <tr><td><a href="https://github.com/origadmin/shadcn-admin-design">shadcn-admin-design</a></td><td>🎨</td><td>管理前端模板</td></tr>
+        <tr><td><a href="https://github.com/godcong/chronos">chronos</a></td><td>⭐103</td><td>中国历法库</td></tr>
+        <tr><td><a href="https://github.com/godcong/yi">yi</a></td><td>⭐33</td><td>易经八卦</td></tr>
+        <tr><td><a href="https://github.com/origadmin">origadmin</a></td><td>🏢</td><td>Go框架组织</td></tr>
+      </table>
+    </div>
+  </div>
+
+  <hr/>
+
+  <!-- OrigAdmin Promo -->
+  <h2 style="padding:0 32px;">🏗️ OrigAdmin — Go Admin Framework Ecosystem</h2>
+
+  <!-- Runtime Foundation -->
+  <div style="text-align:center; padding:8px 32px 0;">
+    <div style="font-size:0.8rem; color:#656d76; text-transform:uppercase; letter-spacing:0.5px; margin-bottom:6px;">⚙️ Core Runtime (基于 go-kratos)</div>
+    <div style="border:1px solid #d0d7de; border-radius:8px; padding:14px;">
+      <a href="https://github.com/origadmin/runtime">
+        <b style="font-size:1.1rem;">origadmin/runtime</b>
+      </a><br/>
+      <sub style="color:#656d76;">配置 · 服务发现 · 注册 · 中间件 · 日志 · 存储抽象 · 邮件 · gRPC 协议</sub>
+    </div>
+  </div>
+
+  <!-- Ecosystem -->
+  <div style="padding:8px 32px 0;">
+    <div style="font-size:0.8rem; color:#656d76; text-transform:uppercase; letter-spacing:0.5px; margin-bottom:6px; text-align:center;">📦 Ecosystem (基于 runtime 构建)</div>
+    <div style="display:grid; grid-template-columns:1fr 1fr 1fr 1fr; gap:8px;">
+      <div style="text-align:center; padding:12px 6px; border:1px solid #f0f0f0; border-radius:6px;">
+        <a href="https://github.com/origadmin/admin"><b>🏢 admin</b></a><br/><sub style="color:#656d76; font-size:0.8rem;">后端框架</sub>
+      </div>
+      <div style="text-align:center; padding:12px 6px; border:1px solid #f0f0f0; border-radius:6px;">
+        <a href="https://github.com/origadmin/contrib"><b>🔌 contrib</b></a><br/><sub style="color:#656d76; font-size:0.8rem;">扩展贡献库</sub>
+      </div>
+      <div style="text-align:center; padding:12px 6px; border:1px solid #f0f0f0; border-radius:6px;">
+        <a href="https://github.com/origadmin/toolkits"><b>🧰 toolkits</b></a><br/><sub style="color:#656d76; font-size:0.8rem;">基础工具链</sub>
+      </div>
+      <div style="text-align:center; padding:12px 6px; border:1px solid #f0f0f0; border-radius:6px;">
+        <a href="https://github.com/origadmin/webui"><b>🎨 webui</b></a><br/><sub style="color:#656d76; font-size:0.8rem;">管理前端</sub>
+      </div>
+    </div>
+  </div>
+
+  <!-- Code Gen -->
+  <div style="padding:8px 32px 0;">
+    <div style="font-size:0.8rem; color:#656d76; text-transform:uppercase; letter-spacing:0.5px; margin-bottom:6px; text-align:center;">⚡ Code Generation Tools</div>
+    <div style="display:grid; grid-template-columns:1fr 1fr 1fr; gap:8px;">
+      <div style="text-align:center; padding:10px; border:1px solid #f0f0f0; border-radius:6px;">
+        <a href="https://github.com/origadmin/adptool"><b>🔧 adptool</b></a><br/><sub style="color:#656d76; font-size:0.8rem;">适配生成工具</sub>
+      </div>
+      <div style="text-align:center; padding:10px; border:1px solid #f0f0f0; border-radius:6px;">
+        <a href="https://github.com/origadmin/abgen"><b>⚡ abgen</b></a><br/><sub style="color:#656d76; font-size:0.8rem;">代码生成工具</sub>
+      </div>
+      <div style="text-align:center; padding:10px; border:1px solid #f0f0f0; border-radius:6px;">
+        <a href="https://github.com/origadmin"><b>🏢 Explore All →</b></a><br/><sub style="color:#656d76; font-size:0.8rem;">32+ repos</sub>
+      </div>
+    </div>
+  </div>
+
+  <div class="promo-actions">
+    <a href="https://github.com/origadmin"><img src="https://img.shields.io/badge/Explore_OrigAdmin_Organization-FF6B35?style=for-the-badge&logo=github&logoColor=white" alt="Explore"/></a>
+    <a href="https://origadmin.org"><img src="https://img.shields.io/badge/Website-origadmin.org-0854C1?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="Website"/></a>
+    <a href="https://origadmin.org/donate"><img src="https://img.shields.io/badge/Sponsor-❤️-EA4335?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor"/></a>
+  </div>
+
+  <hr/>
+
+  <!-- Tech Stack -->
+  <h2 style="padding:0 32px;">🛠️ Tech Stack &amp; Tools</h2>
+  <div class="layout-stack">
+    <div class="stack-left">
+
+      <div class="badge-group">
+        <h4>💻 Languages</h4>
+        <div class="badges">
+          <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Protocol_Buffers-5A29E4?style=flat-square&logo=protocolbuffers&logoColor=white"/>
+          <img src="https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white"/>
+          <img src="https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+          <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
+          <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+        </div>
+      </div>
+
+      <div class="badge-group">
+        <h4>🏗️ Go Ecosystem</h4>
+        <div class="badges">
+          <img src="https://img.shields.io/badge/Gin-008ECF?style=flat-square&logo=gin&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Ent-222222?style=flat-square&logo=ent&logoColor=white"/>
+          <img src="https://img.shields.io/badge/gRPC-4285F4?style=flat-square&logo=grpc&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Buf-492E6B?style=flat-square&logo=buf&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Kratos-008ECF?style=flat-square&logo=go&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Casbin-1F8C2E?style=flat-square&logo=go&logoColor=white"/>
+          <img src="https://img.shields.io/badge/ServiceWeaver-4A90D9?style=flat-square&logo=go&logoColor=white"/>
+          <img src="https://img.shields.io/badge/golang--jwt-000000?style=flat-square&logo=go&logoColor=white"/>
+          <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white"/>
+        </div>
+      </div>
+
+      <div class="badge-group">
+        <h4>🌐 Frontend &amp; Web</h4>
+        <div class="badges">
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+          <img src="https://img.shields.io/badge/ShadcnUI-000000?style=flat-square&logo=shadcnui&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+          <img src="https://img.shields.io/badge/RSBuild-000000?style=flat-square&logo=react&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=antdesign&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white"/>
+        </div>
+      </div>
+
+      <div class="badge-group">
+        <h4>☁️ Cloud &amp; DevOps</h4>
+        <div class="badges">
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Docker_Compose-E25A1C?style=flat-square&logo=docker&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
+          <img src="https://img.shields.io/badge/1Panel-0854C1?style=flat-square&logo=1panel&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white"/>
+        </div>
+      </div>
+
+    </div>
+    <div class="stack-right">
+
+      <div class="badge-group">
+        <h4>🗄️ Databases &amp; Storage</h4>
+        <div class="badges">
+          <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+          <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/>
+          <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/>
+          <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+          <img src="https://img.shields.io/badge/etcd-419EDA?style=flat-square&logo=etcd&logoColor=white"/>
+        </div>
+      </div>
+
+      <div class="badge-group">
+        <h4>⚡ Middleware &amp; Message Queue</h4>
+        <div class="badges">
+          <img src="https://img.shields.io/badge/NATS-27AAE1?style=flat-square&logo=natsdotio&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
+          <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Consul-F24C53?style=flat-square&logo=consul&logoColor=white"/>
+        </div>
+      </div>
+
+      <div class="badge-group">
+        <h4>📊 Observability &amp; Monitoring</h4>
+        <div class="badges">
+          <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
+          <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white"/>
+        </div>
+      </div>
+
+      <div class="badge-group">
+        <h4>🔧 CI/CD &amp; Dev Tools</h4>
+        <div class="badges">
+          <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Drone_CI-212121?style=flat-square&logo=drone&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Makefile-427819?style=flat-square&logo=make&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Dependabot-025E8C?style=flat-square&logo=dependabot&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Gitea-609926?style=flat-square&logo=gitea&logoColor=white"/>
+        </div>
+      </div>
+
+      <div class="badge-group">
+        <h4>📦 Package Managers</h4>
+        <div class="badges">
+          <img src="https://img.shields.io/badge/Go_Modules-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white"/>
+          <img src="https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white"/>
+          <img src="https://img.shields.io/badge/PNPM-F69220?style=flat-square&logo=pnpm&logoColor=white"/>
+          <img src="https://img.shields.io/badge/NVM-F4DD4B?style=flat-square&logo=nvm&logoColor=black"/>
+          <img src="https://img.shields.io/badge/Pip-3776AB?style=flat-square&logo=pypi&logoColor=white"/>
+        </div>
+      </div>
+
+      <div class="badge-group">
+        <h4>🖥️ OS &amp; IDEs</h4>
+        <div class="badges">
+          <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+          <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
+          <img src="https://img.shields.io/badge/GoLand-000000?style=flat-square&logo=goland&logoColor=white"/>
+          <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
+          <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Bruno-F4AA41?style=flat-square&logo=bruno&logoColor=black"/>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <hr/>
+
+  <!-- Stats -->
+  <h2 style="padding:0 32px;">📊 GitHub Analytics</h2>
+  <div style="padding:0 32px;">
+    <div class="stats-row">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=godcong&layout=compact&hide_border=true&langs_count=8&bg_color=00000000" alt="Top Langs"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=godcong&theme=default&hide_border=true&bg_color=00000000" alt="Streak"/>
+    </div>
+  </div>
+
+  <hr/>
+
+  <!-- Activity -->
+  <h2 style="padding:0 32px;">📈 Contribution Activity</h2>
+  <div style="padding:0 32px;">
+    <img style="width:100%;" src="https://github-readme-activity-graph.vercel.app/graph?username=godcong&custom_title=GodCong%20Contribution%20Graph&hide_border=true&bg_color=ffffff&line=00ADD8&point=3178C6&color=333333&area=true&area_color=00ADD8" alt="Activity"/>
+  </div>
+
+  <div class="footer">
+    <img src="https://komarev.com/ghpvc/?username=godcong&style=flat-square&color=00ADD8" alt="Profile Views"/>
+    <p style="margin-top:10px;"><i>⚡ "Building frameworks so others can build faster." — Keep coding, keep shipping.</i></p>
+    <p style="margin-top:8px;">
+      <a href="https://github.com/origadmin"><img src="https://img.shields.io/badge/OrigAdmin-FF6B35?style=flat-square&logo=github&logoColor=white" alt="OrigAdmin"/></a>
+      &nbsp;&nbsp;
+      <a href="mailto:jumbycc@163.com"><img src="https://img.shields.io/badge/Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+      &nbsp;&nbsp;
+      <a href="https://origadmin.org/donate"><img src="https://img.shields.io/badge/Sponsor-❤️-EA4335?style=flat-square&logo=githubsponsors&logoColor=white" alt="Sponsor"/></a>
+    </p>
+  </div>
+
+</div>
+</body>
+</html>

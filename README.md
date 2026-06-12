@@ -1,180 +1,107 @@
-[![img](https://raw.githubusercontent.com/godcong/godcong/master/images/header.jpg)](https://github.com/godcong)
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/godcong/godcong/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/godcong/godcong/output/github-contribution-grid-snake.svg"/>
+    <img alt="Snake" src="https://raw.githubusercontent.com/godcong/godcong/output/github-contribution-grid-snake.svg"/>
+  </picture>
+</div>
 
-<h2> 🏆 GITHUB TROPHIES </h2>
+---
+
+### 👋 Hi, I'm GodCong — Founder of [OrigAdmin](https://github.com/origadmin) · Go Framework Architect
+
+> *"Building frameworks so others can build faster."*
+
+I create and maintain **[OrigAdmin](https://github.com/origadmin)** — an open-source Go admin framework ecosystem built on go-kratos. Architecting modular backends, admin UIs, and developer tooling.
 
 <div>
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=godcong&theme=white&row=1"
-alt="GodCong's GitHub trophies"/>
-<! -- You can add more pictures or cards to the same line -->
+  <a href="mailto:jumbycc@163.com"><img src="https://img.shields.io/badge/Email-jumbycc%40163.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/origadmin"><img src="https://img.shields.io/badge/OrigAdmin-FF6B35?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/godcong"><img src="https://img.shields.io/badge/GitHub-godcong-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://origadmin.org/donate"><img src="https://img.shields.io/badge/Sponsor-❤️-EA4335?style=flat-square&logo=githubsponsors&logoColor=white"/></a>
 </div>
 
-<table>
-<tr>
-<td valign="top" width="60%">
-<!-- On the Left -->
-<h1>👋 Hi, I'm GodCong</h1>
-<!-- Social Links -->
-<div>
-<a href="mailto:jumbycc@163.com">
-<img src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white">
-</a>
-<!-- <a href="https://github.com/godcong"><img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github&logoColor=white"></a> -->
-<!-- Add other social media links here -->
-<a href="#">
-<img src="https://img.shields.io/badge/-Twitter-000000?style=flat&logo=x&logoColor=white">
-</a>
-<a href="#">
-<img src="https://img.shields.io/badge/-WeChat-07C160?style=flat&logo=wechat&logoColor=white">
-</a>
-<!-- <a href="#"><img src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram&logoColor=white"></a>-->
-<a href="#">
-<img src="https://img.shields.io/badge/-Facebook-0866FF?style=flat&logo=facebook&logoColor=white">
-</a>
-<a href="#">
-<img src="https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white">
-</a>
-<a href="#">
-<img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white">
-</a>
-<a href="#">
-<img src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white">
-</a>
-</div>
-<h3>A passionate Gopher from Bluestar</h3>
+---
 
-<p>
-<em>"Coding is an art, and every line is a brushstroke."</em>
-</p>
+### 🏗️ OrigAdmin Framework
 
-<h2> 🌟 LIT SKILL </h2>
+**⚙️ Core** — [`runtime`](https://github.com/origadmin/runtime) *(go-kratos 运行时: 配置/服务发现/中间件/存储)*
 
-<h3> **PROGRAMMING LANGUAGE** </h3>
+**📦 Ecosystem** — [`admin`](https://github.com/origadmin/admin) *(后端)* · [`contrib`](https://github.com/origadmin/contrib) *(扩展)* · [`toolkits`](https://github.com/origadmin/toolkits) *(工具链)* · [`webui`](https://github.com/origadmin/webui) *(管理前端)*
+
+**⚡ Generators** — [`adptool`](https://github.com/origadmin/adptool) *(适配)* · [`abgen`](https://github.com/origadmin/abgen) *(代码生成)*
+
+**🌱 Also** — [`fate`](https://github.com/babyname/fate) *(2.4k⭐ 起名)* · [`chronos`](https://github.com/godcong/chronos) *(历法)* · AI tooling
+
+---
+
+### 🛠️ Tech Stack
 
 <div>
-<!-- Languages -->
-<img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/-CPlusPlus-00599C?style=flat&logo=cplusplus&logoColor=white">
-<img src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white">
-<img src="https://img.shields.io/badge/-Java-000000?style=flat&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black">
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=black">
-<img src="https://img.shields.io/badge/-AntDesign-0170FE?style=flat&logo=antdesign&logoColor=black">
-<img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kratos-008ECF?style=flat-square&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gin-008ECF?style=flat-square&logo=gin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ent-222222?style=flat-square&logo=ent&logoColor=white"/>
+  <img src="https://img.shields.io/badge/gRPC-4285F4?style=flat-square&logo=grpc&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Buf-492E6B?style=flat-square&logo=buf&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Casbin-1F8C2E?style=flat-square&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/ShadcnUI-000000?style=flat-square&logo=shadcnui&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RSBuild-000000?style=flat-square&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NATS-27AAE1?style=flat-square&logo=natsdotio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/GoLand-000000?style=flat-square&logo=goland&logoColor=white"/>
 </div>
 
-<h3> **DATABASE** </h3>
+---
 
-<div>
-<!-- Databases -->
-<img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
-<img src="https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white">
-<img src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white">
-<img src="https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=mariadb&logoColor=white">
+### 📊 GitHub Analytics
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=godcong&layout=compact&hide_border=true&langs_count=8&bg_color=00000000"/>
+      </td>
+      <td width="50%">
+        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=godcong&theme=default&hide_border=true&bg_color=00000000"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<h3> **DEVELOPMENT TOOLS** </h3>
-
-<div>
-<!-- Tools -->
-<img src="https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=white">
-<img src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white">
-<img src="https://img.shields.io/badge/-GitExtensions-212121?style=flat&logo=gitextensions&logoColor=white">
-<img src="https://img.shields.io/badge/-IntellijIDEA-000000?style=flat&logo=IntellijIdea&logoColor=white">
-<img src="https://img.shields.io/badge/-GolLand-000000?style=flat&logo=goland&logoColor=white">
-<img src="https://img.shields.io/badge/-Bruno-F4AA41?style=flat&logo=bruno&logoColor=black">
-<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/-GitForWindows-80B3FF?style=flat&logo=gitforwindows&logoColor=white">
-<img src="https://img.shields.io/badge/-Gitea-609926?style=flat&logo=gitea&logoColor=white">
+<div align="center">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=godcong&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&hide_title=true" alt="Stats"/>
 </div>
 
-<h3> **APPLICATION & UTILITY   ** </h3>
-
-<div>
-<!-- Utilities -->
-<img src="https://img.shields.io/badge/-Consul-F24C53?style=flat&logo=consul&logoColor=white">
-<img src="https://img.shields.io/badge/-NATS-27AAE1?style=flat&logo=natsdotio&logoColor=white">
-<img src="https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apachekafka&logoColor=white">
-<img src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white">
-<img src="https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white">
-<img src="https://img.shields.io/badge/-Dependabot-025E8C?style=flat&logo=dependabot&logoColor=white">
-<img src="https://img.shields.io/badge/-OpenTelemetry-000000?style=flat&logo=opentelemetry&logoColor=white">
-<img src="https://img.shields.io/badge/-QNAP-0C2E82?style=flat&logo=qnap&logoColor=white">
-<img src="https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white">
-<img src="https://img.shields.io/badge/-PNPM-F69220?style=flat&logo=pnpm&logoColor=white">
-<img src="https://img.shields.io/badge/-NVM-F4DD4B?style=flat&logo=nvm&logoColor=white">
-<img src="https://img.shields.io/badge/-1Panel-0854C1?style=flat&logo=1panel&logoColor=white">
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=godcong&custom_title=GodCong%20Contribution%20Graph&hide_border=true&bg_color=0d1117&line=58A6FF&point=8B949E&color=58A6FF&area=true&area_color=58A6FF40"/>
+    <img width="100%"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=godcong&custom_title=GodCong%20Contribution%20Graph&hide_border=true&bg_color=ffffff&line=00ADD8&point=3178C6&color=333333&area=true&area_color=00ADD8"
+      alt="Contribution Graph"/>
+  </picture>
 </div>
 
-<h3> **CLOUD PLATFORMS & AUTOMATION** </h3>
-
-<div>
-<!-- Cloud & Automation -->
-<img src="https://img.shields.io/badge/-Terraform-7B4397?style=flat&logo=terraform&logoColor=white">
-<img src="https://img.shields.io/badge/-Drone-212121?style=flat&logo=drone&logoColor=white">
-<img src="https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white">
-<img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white">
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=godcong&style=flat-square&color=00ADD8" alt="Profile Views"/>
+  <br/><br/>
+  <i>⚡ Building frameworks so others can build faster.</i>
 </div>
-
-<!--
-## 💬 LANGUAGE SKILLS
-
-<div>
-
-</div>
-
-## 💻 WORK EXPERIENCE
-<div>
-
-</div>
--->
-
-
-</td>
-<td valign="top">
-<!-- On the Right -->
-
-<h2> 📊 GITHUB STATS </h2>
-
-<div align="right">
-<a href="#">
-<img height="20" src="https://img.shields.io/badge/-Go-05122A?style=flat&logo=go">
-</a>
-<a href="#">
-<img height="20" src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github">
-</a>
-<!-- <code><img height="20" src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker"></code> -->
-</div>
-
-<div>
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=godcong&theme=white">
-</div>
-<div>
-
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=godcong&layout=compact">
-</div>
-<div>
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=godcong&show_icons=true&theme=white">
-</div>
-
-<h2> 📈 ACTIVITY GRAPH </h2>
-<div>
-<img width="100%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=godcong&custom_title=GodCong%20Activity%20Graph&hide_border=true&theme=github&bg_color=ffffff&line=3498db&color=000000"/>
-</div>
-</td>
-</tr>
-</table>
-
-<!-- Hidden
-
-## 🎨 UNLIT SKILLS
-<img src="https://skillicons.dev/icons?i=ableton,activitypub,actix,adonis,ae,aiscript,alpinejs,anaconda,androidstudio,angular,ansible,apollo,apple,appwrite,arch,arduino,astro,atom,au,autocad,aws,azul,azure,babel,bash,bevy,bitbucket,blender,bootstrap,bsd,bun,c,cs,cpp,crystal,cassandra,clion,clojure,cloudflare,cmake,codepen,coffeescript,css,cypress,d3,dart,debian,deno,devto,discord,bots,discordjs,django,docker,dotnet,dynamodb,eclipse,elasticsearch,electron,elixir,elysia,emacs,ember,emotion,express,fastapi,fediverse,figma,firebase,flask,flutter,forth,fortran,gamemakerstudio,gatsby,gcp,git,github,githubactions,gitlab,gmail,gherkin,go,gradle,godot,grafana,graphql,gtk,gulp,haskell,haxe,haxeflixel,heroku,hibernate,html,htmx,idea,ai,instagram,ipfs,java,js,jenkins,jest,jquery,kafka,kali,kotlin,ktor,kubernetes,laravel,latex,less,linkedin,linux,lit,lua,md,mastodon,materialui,matlab,maven,mint,misskey,mongodb,mysql,neovim,nestjs,netlify,nextjs,nginx,nim,nix,nodejs,notion,npm,nuxtjs,obsidian,ocaml,octave,opencv,openshift,openstack,p5js,perl,ps,php,phpstorm,pinia,pkl,plan9,planetscale,pnpm,postgres,postman,powershell,pr,prisma,processing,prometheus,pug,pycharm,py,pytorch,qt,r,rabbitmq,rails,raspberrypi,react,reactivex,redhat,redis,redux,regex,remix,replit,rider,robloxstudio,rocket,rollupjs,ros,ruby,rust,sass,spring,sqlite,stackoverflow,styledcomponents,sublime,supabase,scala,sklearn,selenium,sentry,sequelize,sketchup,solidity,solidjs,svelte,svg,swift,symfony,tailwind,tauri,tensorflow,terraform,threejs,twitter,ts,ubuntu,unity,unreal,v,vala,vercel,vim,visualstudio,vite,vitest,vscode,vscodium,vue,vuetify,wasm,webflow,webpack,webstorm,windicss,windows,wordpress,workers,xd,yarn,yew,zig&perline=20">
--->
-
-<p>Thank you for visiting my profile! If you have any questions or would like to connect, feel free to reach out.</p>
